@@ -2,6 +2,7 @@
 <b>:man_technologist:Coded By .::Shayan::.</b></br>
 <b>:comet:This Script Can Get Informations,Grab Users,Check Users,Brute Force Accounts!</b></br>
 <b>:pray:Thank's For Using Our Script :)</b></br></br>
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 
 ## :point_down: ScreenShot :point_down:
 
